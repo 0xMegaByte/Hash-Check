@@ -1,4 +1,7 @@
 # Hash Check
+1-Day Challenge: I aimed to learn Rust language within a day, seeking a simple project to work on.\
+With the help of ChatGPT, I found a suitable project idea that allowed me to delve into Rust's syntax and features,\
+accelerating my learning process effectively.
 
 ## Introduction
 
