@@ -14,7 +14,7 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 [package]
-name = "hash_checker"
+name = "hash_check"
 authors = ["Matan Shitrit (0xMegaByte)"]
 version = "1.0.0"
 edition = "2021"

@@ -307,7 +307,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "hash_checker"
+name = "hash_check"
 version = "1.0.0"
 dependencies = [
  "clap",
